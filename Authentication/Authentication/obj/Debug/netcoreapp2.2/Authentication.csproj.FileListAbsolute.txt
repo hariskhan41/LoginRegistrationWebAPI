@@ -1,0 +1,14 @@
+D:\Haris\LoginRegistrationAPI\Authentication\Authentication\bin\Debug\netcoreapp2.2\Authentication.deps.json
+D:\Haris\LoginRegistrationAPI\Authentication\Authentication\bin\Debug\netcoreapp2.2\Authentication.runtimeconfig.json
+D:\Haris\LoginRegistrationAPI\Authentication\Authentication\bin\Debug\netcoreapp2.2\Authentication.runtimeconfig.dev.json
+D:\Haris\LoginRegistrationAPI\Authentication\Authentication\bin\Debug\netcoreapp2.2\Authentication.dll
+D:\Haris\LoginRegistrationAPI\Authentication\Authentication\obj\Debug\netcoreapp2.2\Authentication.csprojAssemblyReference.cache
+D:\Haris\LoginRegistrationAPI\Authentication\Authentication\obj\Debug\netcoreapp2.2\Authentication.csproj.CoreCompileInputs.cache
+D:\Haris\LoginRegistrationAPI\Authentication\Authentication\obj\Debug\netcoreapp2.2\Authentication.RazorAssemblyInfo.cache
+D:\Haris\LoginRegistrationAPI\Authentication\Authentication\obj\Debug\netcoreapp2.2\Authentication.RazorAssemblyInfo.cs
+D:\Haris\LoginRegistrationAPI\Authentication\Authentication\obj\Debug\netcoreapp2.2\Authentication.AssemblyInfoInputs.cache
+D:\Haris\LoginRegistrationAPI\Authentication\Authentication\obj\Debug\netcoreapp2.2\Authentication.AssemblyInfo.cs
+D:\Haris\LoginRegistrationAPI\Authentication\Authentication\obj\Debug\netcoreapp2.2\Authentication.RazorTargetAssemblyInfo.cache
+D:\Haris\LoginRegistrationAPI\Authentication\Authentication\bin\Debug\netcoreapp2.2\Authentication.pdb
+D:\Haris\LoginRegistrationAPI\Authentication\Authentication\obj\Debug\netcoreapp2.2\Authentication.dll
+D:\Haris\LoginRegistrationAPI\Authentication\Authentication\obj\Debug\netcoreapp2.2\Authentication.pdb
